@@ -53,6 +53,7 @@ h3 {
     /*Centering vertically*/
     max-width: 80rem;
     margin: 0 auto;
+    padding: 2rem;
 }
 
 /*Styles of the any child of the container*/
